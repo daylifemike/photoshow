@@ -1,6 +1,6 @@
 /*
     jQuery photoShow v1.7
-    -- WORDPRESS VARIANT --
+    -- WORDPRESS VARIANT (v1.3) --
     requires jQuery 1.4.2+
 */
 

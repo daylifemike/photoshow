@@ -4,7 +4,7 @@ Plugin URI: http://codecanyon.net/item/photoshow-for-wordpress/243448
 Description: A image gallery plugin for WordPress. 
 Author: makfak
 Author URI: http://www.codecanyon.net/user/makfak
-Version: 1.25
+Version: 1.3
 
 == Description ==
 
