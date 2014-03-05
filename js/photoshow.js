@@ -1145,4 +1145,5 @@
         });
         return this;
     };
-})(jq152);
+
+}(jQuery));

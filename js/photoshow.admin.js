@@ -54,4 +54,4 @@
             return returnState;
         });
     });
-})(jq152);
+}(jQuery));

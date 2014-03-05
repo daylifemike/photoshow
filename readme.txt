@@ -22,6 +22,13 @@ Simply use the shortcode [photoShow] or [photoshow] in the post or page content.
     (/wp-admin/admin.php?page=photoShow.php)
 
 == Changelog ==
+= 1.3 =
+* Enhancement: now supports `[gallery]` shortcode with `photoshow` attribute -- `[gallery photoshow="true"]`
+* Enhancement: now supports `[gallery]` shortcode with `theme` attribute -- `[gallery theme="photoshow"]`
+* Enhancement: PhotoShow can now be selected during the "Create Gallery" / "Edit Gallery" workflow -- Edit Gallery --> Theme
+* Enhancement: now supports NextGen Albums with `ngaid` attribute -- `[photoshow ngaid="1"]`
+* Enhancement: updates PrettyPhoto to latest (3.1.5)
+
 = 1.25 =
 * Bug Fix: corrects a bug that caused images to display that aren't in the specified gallery
 * Bug Fix: corrects a bug that prevented the lightbox from being bound correctly

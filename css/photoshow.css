@@ -87,9 +87,9 @@
 	#photoShow .PS_controls li { float:left; margin:0px 0px 0px 0px; border-right:1px solid #666666; }
         #photoShow .PS_controls li.PS_first {  }
         #photoShow .PS_controls li.PS_last { border:none; margin:0px 0px 0px 0px; }
-    #photoShow .PS_controls li a { color:#ffffff; display:block; width:16px; height:16px; background:transparent url(images/sprite-ffffff.png) 0px 0px no-repeat; margin:0px 5px 0px 5px; outline:none; }
-        #photoShow .PS_controls li a:hover { background-image:url(images/sprite-aaaaaa.png); }
-        #photoShow .PS_controls li a:active { background-image:url(images/sprite-228ef1.png); }
+    #photoShow .PS_controls li a { color:#ffffff; display:block; width:16px; height:16px; background:transparent url(../images/sprite-ffffff.png) 0px 0px no-repeat; margin:0px 5px 0px 5px; outline:none; }
+        #photoShow .PS_controls li a:hover { background-image:url(../images/sprite-aaaaaa.png); }
+        #photoShow .PS_controls li a:active { background-image:url(../images/sprite-228ef1.png); }
         
         #photoShow .PS_controls li a#PS_prev { background-position:-96px -1px; }
         #photoShow .PS_controls li a#PS_albums { background-position:-223px -192px; width:17px; }
@@ -97,7 +97,7 @@
         #photoShow .PS_controls li a#PS_thumbs { background-position:-223px -176px; width:17px; }
         #photoShow .PS_controls li a#PS_next { background-position:-33px -1px; }
         
-        #photoShow .PS_controls li.PS_on a { background-image:url(images/sprite-228ef1.png); outline:none; }
+        #photoShow .PS_controls li.PS_on a { background-image:url(../images/sprite-228ef1.png); outline:none; }
         #photoShow .PS_controls li.PS_off a { outline:none; }
 	   
         #photoShow .PS_controls li a i { display:none; }
@@ -120,9 +120,9 @@
             background-image: -moz-linear-gradient(center top , #ffffff 10%, #cdcdcd 99%);
         }
         #photoShow .PS_controls li { border-right:1px solid #dddddd; }
-        #photoShow .PS_controls li a { color:#000000; background:transparent url(images/sprite-222222.png) 0px 0px no-repeat; }
-            #photoShow .PS_controls li a:hover { background-image:url(images/sprite-228ef1.png); }
-        #photoShow .PS_controls li.PS_on a { background-image:url(images/sprite-aaaaaa.png); }
+        #photoShow .PS_controls li a { color:#000000; background:transparent url(../images/sprite-222222.png) 0px 0px no-repeat; }
+            #photoShow .PS_controls li a:hover { background-image:url(../images/sprite-228ef1.png); }
+        #photoShow .PS_controls li.PS_on a { background-image:url(../images/sprite-aaaaaa.png); }
 
     #photoShow .PS_albums { background:#ffffff; color:#000000; }
         #photoShow .PS_albums li { border:1px solid #000000; }
